@@ -6,5 +6,6 @@ npm i
 
 ## correr :
 node compiler.js -s ARCHIVO_FUENTE 
+
 node compiler.js -h
 
