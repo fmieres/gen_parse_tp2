@@ -1,0 +1,16 @@
+{
+  "name": "genparse_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "syntax-cli": "0.0.97",
+    "uniqid": "^4.1.1"
+  }
+}
